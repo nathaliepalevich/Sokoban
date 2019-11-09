@@ -1,4 +1,4 @@
-#Sokoban
+# Sokoban
 
 Challenge - vanilla js
 
